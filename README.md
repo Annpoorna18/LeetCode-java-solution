@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1672-richest-customer-wealth) |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
