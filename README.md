@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
