@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
