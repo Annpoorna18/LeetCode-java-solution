@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 | [0035-search-insert-position](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
