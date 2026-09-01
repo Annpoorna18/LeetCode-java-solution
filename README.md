@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,12 +35,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
