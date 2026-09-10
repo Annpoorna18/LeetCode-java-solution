@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -61,6 +63,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -69,10 +72,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -85,4 +90,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
