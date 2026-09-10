@@ -19,6 +19,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0162-find-peak-element](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,4 +99,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
