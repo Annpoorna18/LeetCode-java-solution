@@ -46,6 +46,7 @@
 | [0007-reverse-integer](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -65,6 +66,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
