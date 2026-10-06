@@ -67,6 +67,7 @@
 | [0152-maximum-product-subarray](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
 | ------- |
@@ -153,4 +155,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
