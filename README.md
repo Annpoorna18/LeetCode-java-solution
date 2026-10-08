@@ -139,6 +139,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -167,4 +169,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Annpoorna18/LeetCode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
